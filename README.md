@@ -8,7 +8,7 @@
 
 2.【红包助理Pro-QQ版】支持QQ8.8.38版本。
 
-3.【秒启动Pro】完全包含红包助理Pro的功能,支持到最新企业微信4.0.0。
+3.【秒启动Pro】完全包含红包助理Pro的功能,另外支持到最新企业微信4.0.0。
 
 * 软件下载总地址：[https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
 
@@ -18,17 +18,20 @@
   |:-:|:-:|
   |![主界面](http://47.97.10.108:8080/pic/jine.png)|![定制化设置](http://47.97.10.108:8080/pic/shezhi.png)|
 
-  【红包助理Pro-微信版】支持微信全版本,包括最新的8.0.19。
-  【红包助理Pro-QQ版】支持QQ 8.8.38版本。
 
-   * 蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-   * 闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
-   * 微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+
+ * 【红包助理Pro-微信版】支持微信全版本,包括最新的8.0.19
+ * 【红包助理Pro-QQ版】支持QQ 8.8.38版本
+
+   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
+   * 2.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
+   * 3.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+
 
 ## 三、秒启动Pro  介绍
   #### 核心功能如下
   * 1.自动跳过启动开屏广告
-  * 2.完全包含红包助理Pro-微信版的所有功能
+  * 2.微信红包助理(完全包含红包助理Pro-微信版)
   * 3.定时自动发送微信消息
   * 4.微信QQ消息防撤回
   * 5.运动刷步数
@@ -38,6 +41,6 @@
   |功能入口
   |:-:|
   |![功能入口](http://47.97.10.108:8080/pic/jieshao.png)|
-  * 蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-  * 闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
-  * 微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+  * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
+  * 2.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
+  * 3.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
