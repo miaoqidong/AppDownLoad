@@ -16,7 +16,7 @@
 ## 二、红包助理Pro  介绍
   |主界面|定制化设置|
   |:-:|:-:|
-  |![主界面](https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/jieshao.png)|![定制化设置](http://47.97.10.108:8080/pic/shezhi.png)|
+  |![主界面](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/jieshao.png)|![定制化设置](http://47.97.10.108:8080/pic/shezhi.png)|
 
 
 
