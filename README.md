@@ -18,16 +18,16 @@
 ## 二、红包助理Pro  介绍
   |主界面|红包自定义设置|
   |:-:|:-:|
-  |![主界面](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/jieshao.png)|![红包自定义设置](http://47.97.10.108:8080/pic/shezhi.png)|
+  |![主界面](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/zhulizhujiemian.png)|![红包自定义设置](http://47.97.10.108:8080/pic/shezhi.png)|
 
-    #### 核心功能如下
-        * 1.后台抢:当你刷视频,看新闻,逛淘宝的时候,可以自动抢
-        * 2.手机锁屏,息屏的时候,也可以自动抢
-        * 3.指定人,群聊的不抢 
-        * 4.也可只抢指定的人的群聊的
-        * 5.带有某些关键字的包不抢(比如,测,挂等字眼)
-        * 6.也可只抢带有某些关键字的包
-        * 7.免打扰的群也能抢
+#### 核心功能如下
+* 1.后台抢:当你刷视频,看新闻,逛淘宝的时候,可以自动抢
+  * 2.手机锁屏,息屏的时候,也可以自动抢
+  * 3.指定人,群聊的不抢
+  * 4.也可只抢指定的人的群聊的
+  * 5.带有某些关键字的包不抢(比如,测,挂等字眼)
+  * 6.也可只抢带有某些关键字的包
+  * 7.免打扰的群也能抢
 
    * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
    * 2.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
@@ -46,7 +46,7 @@
 
   |功能入口
   |:-:|
-  |![功能入口](http://47.97.10.108:8080/pic/jieshao.png)|
+  |![功能入口](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/jieshao.png)|
   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
   * 2.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
   * 3.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
