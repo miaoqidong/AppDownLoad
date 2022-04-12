@@ -10,7 +10,7 @@
 
 3.【秒启动Pro】完全包含红包助理Pro的功能,另外支持到最新企业微信4.0.3。
 
-* 软件下载总地址：[https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
+* 软件下载总地址：[https://www.pgyer.com/3391236938](https://gitee.com/mutoupiaoliu/weChatLogin/blob/main/screenshot/Screenshot1.jpg)
 
 
 ## 二、红包助理Pro  介绍
