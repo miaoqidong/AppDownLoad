@@ -44,10 +44,9 @@
 
 #### 软件下载地址(如果遇到某一个网址打不开,可尝试其他的,一个一个试,总有可以正常下载的)：
   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-  * 2.github下载: [github下载](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.1)
+  * 2.github下载: [永久地址下载-偶尔打不开,多试几次即可](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.1)
   * 3.蒲公英下载: [https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
-  * 4.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
-  * 5.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+  * 4.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
 
 #### 注意:从github下载的是.zip压缩包,需要解压缩一下才能直接安装哦：
 |解压缩
