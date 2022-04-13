@@ -1,4 +1,4 @@
-# 收集到的一些非常好用的黑科技软件:
+# 分享一些非常好用的黑科技软件App:
 
 ## 一、前言
 
@@ -10,10 +10,11 @@
 
 3.【红包助理Pro-QQ版】支持QQ8.8.38-8.8.80版本。
 
-4.【秒启动Pro】完全包含红包助理Pro三个版本的所有功能。
+4.【秒启动Pro】在秒启动的基础上又完全包含红包助理Pro三个版本的所有功能。
 
-* 软件下载总地址：[https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
-
+* 软件下载总地址：
+  **[1.https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
+  **[2.github下载](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.1)
 
 ## 二、红包助理Pro  介绍
   |主界面|红包自定义设置|
