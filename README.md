@@ -12,10 +12,12 @@
 
 4.【秒启动Pro】在秒启动的基础上又完全包含红包助理Pro三个版本的所有功能。
 
+5.【下面详细介绍一下各个软件】
+
 ## 二、红包助理Pro  介绍
   |主界面|红包自定义设置|
   |:-:|:-:|
-  |![主界面](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/zhulizhujiemian.png)|![红包自定义设置](http://47.97.10.108:8080/pic/shezhi.png)|
+  |![主界面](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/zhulizhujiemian.png)|![红包自定义设置](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/shezhi.png)|
 
 #### 核心功能如下
 * 1.后台抢:当你刷视频,看新闻,逛淘宝的时候,可以自动抢
@@ -25,29 +27,29 @@
   * 5.带有某些关键字的包不抢(比如,测,挂等字眼)
   * 6.也可只抢带有某些关键字的包
   * 7.免打扰的群也能抢
-
-   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-   * 2.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
-   * 3.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
-
-
+  
 ## 三、秒启动Pro  介绍
   #### 核心功能如下
   * 1.自动跳过启动开屏广告
-  * 2.微信红包助理(完全包含红包助理Pro-微信版)
-  * 3.定时自动发送微信消息
+  * 2.秒换三装(王者荣耀)
+  * 3.定时自动发送微信消息给群聊或者好友
   * 4.微信QQ消息防撤回
   * 5.运动刷步数
   * 6.微信未读消息自动清理
-  * 7.企业微信红包助理
+  * 7.完全包含红包助理Pro的所有功能(微信版,企业微信版,QQ版均包括)
 
   |功能入口
   |:-:|
   |![功能入口](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/jieshao.png)|
 
-#### 软件下载总地址：
-*[1.https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
-*[2.github下载](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.1)
+#### 软件下载地址(如果遇到某一个网址打不开,可尝试其他的,一个一个试,总有可以正常下载的)：
   * 1.蓝奏云下载：[https://ling530.lanzoul.com/b00nvh5na](https://ling530.lanzoul.com/b00nvh5na)
-  * 2.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
-  * 3.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+  * 2.github下载: [github下载](https://codeload.github.com/hongbaozhuli/AppDownLoad/zip/refs/tags/1.1)
+  * 3.蒲公英下载: [https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
+  * 4.闪电盘下载：[http://shandianpan.com/f/80Zw](http://shandianpan.com/f/80Zw)
+  * 5.微云下载：[https://share.weiyun.com/xeuCo6e8](https://share.weiyun.com/xeuCo6e8)
+
+#### 注意:从github下载的是.zip压缩包,需要解压缩一下才能直接安装哦：
+|解压缩
+|:-:|
+|![解压缩包](https://gitee.com/mutoupiaoliu/SoftDownload/raw/main/miaoqidong/xiazai.png)|
